@@ -1,0 +1,25 @@
+@media (width <=1300px) {
+    .black {
+        font-size: 30px;
+    }
+    .white {
+        font-size: 30px;
+    }
+}
+
+@media (width <=768px) {
+    .black {
+        font-size: 20px;
+    }
+    .white {
+        font-size: 20px;
+    }
+}
+@media (width <=500px) {
+    .black {
+        font-size: 10px;
+    }
+    .white {
+        font-size: 10px;
+    }
+}

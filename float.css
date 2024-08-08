@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0 auto;
+    padding: 0%;
+
+}
+.wrapper{
+    width: 800px;
+    height: 100vh
+    border: 2px solid black;
+    margin: 0 auto;
+}
+.main{
+    width: 800px;
+    height: 100px;
+   margin: 0 auto;
+}
+.boxw{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(135, 72, 8);
+    font-size: 60px;
+    float: left;
+    text-align: center;
+    color: rgb(184, 184, 198);
+    
+}
+
+
+.boxb{
+     width: 100px;
+    height: 100px;
+    background-color: rgb(179, 148, 14);
+    font-size: 60px;
+    float: left;
+    text-align: center;
+    color: rgb(25, 25, 28);
+}
